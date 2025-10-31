@@ -1,7 +1,7 @@
 # Calculator in React and TypeScript
-A working calculator in React and TypeScript. https://tuanpham-dev.github.io/calculator-react-typescript/
+A working calculator in React and TypeScript. https://MarianoJulianMunoz.github.io/calculator_react_typescript/
 
-![calculator-react-typescript](https://raw.githubusercontent.com/tuanpham-dev/calculator-react-typescript/master/screenshot.png)
+![calculator-react-typescript](https://raw.githubusercontent.com/MarianoJulianMunoz/calculator_react_typescript/master/screenshot.png)
 
 ## Keyboard Shortcuts
 | Shortcut          | Description   |
