@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://MarianoJMunoz.github.io/calculator-react-typescript/",
   "author": "Mariano J Muñoz",
+  "contributors": ["Mariano J Muñoz"],
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
